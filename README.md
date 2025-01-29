@@ -9,7 +9,7 @@ Welcome to **Bike Zone**, where passion meets performance! This stunning website
 ![Desktop Screenshot](https://i.postimg.cc/zfftcZB9/screenshot-1738139849768.png)
 
 ### Mobile View
-![Mobile Screenshot](INSERT_MOBILE_IMAGE_URL_HERE)
+![Mobile Screenshot](https://i.postimg.cc/3J7Zq5fn/i-Phone-13-PRO-shakibbash-github-io-2.png)
 
 ---
 
